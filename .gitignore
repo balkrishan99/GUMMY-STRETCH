@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.mp4
+*.gif
+
+# Downloaded MediaPipe model bundles (fetch via Setup instructions in README)
+models/*.task
+
+.vscode/
+.idea/
