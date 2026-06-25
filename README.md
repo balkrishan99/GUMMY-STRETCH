@@ -39,7 +39,7 @@ runs comfortably on CPU.
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/GUMMY-STRETCH.git
+git clone https://github.com/balkrishan99/GUMMY-STRETCH.git
 cd GUMMY-STRETCH
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
